@@ -1,0 +1,1 @@
+export const  BASE_URL ="https://crud-app-backend-98re.onrender.com"
